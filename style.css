@@ -4,7 +4,7 @@ body {
 }
 
 .body-bg {
-    background-image: url('../images/pexels-athena-2582937.jpg');
+    background-image: url('./pexels-athena-2582937.jpg');
     background-size: cover;
 }
 
