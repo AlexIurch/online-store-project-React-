@@ -5,8 +5,6 @@ const data = {
     "photo": "./Photo3.jpg",
     "phone": "+4741174573",
     "email": "zema.dak.ua@gmail.com",
-    // "skype": "skype_123number",
-    // "linkedin": "link_to_golinkedin",
     "address": "Vikedal, Norway",
     "skills": [
         "Self-discipline and motivation for development and self-learning",
